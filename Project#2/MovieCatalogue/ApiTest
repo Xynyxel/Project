@@ -1,0 +1,25 @@
+Detail Movie
+Link = https://api.themoviedb.org/3/movie/76341?api_key=1cf3cc0a4096aac59c689557817ea4df
+
+Detail TvShow
+Link = https://api.themoviedb.org/3/tv/5?api_key=1cf3cc0a4096aac59c689557817ea4df
+
+Popular Movie
+Link = https://api.themoviedb.org/3/movie/popular?api_key=1cf3cc0a4096aac59c689557817ea4df&page=1
+
+Popular Tv
+Link = https://api.themoviedb.org/3/tv/popular?api_key=1cf3cc0a4096aac59c689557817ea4df&page=1
+
+pembagian
+Popular, Top Rated, Latest
+
+
+recomendation
+Link = https://api.themoviedb.org/3/tv/76341/recommendations?api_key=1cf3cc0a4096aac59c689557817ea4df
+Link = https://api.themoviedb.org/3/movie/76341/recommendations?api_key=1cf3cc0a4096aac59c689557817ea4df
+
+genres TvShow
+Link = https://api.themoviedb.org/3/genre/tv/list?api_key=1cf3cc0a4096aac59c689557817ea4df
+
+genres Movie
+Link = https://api.themoviedb.org/3/genre/movie/list?api_key=1cf3cc0a4096aac59c689557817ea4df
